@@ -1,5 +1,5 @@
 =====================
-Marcus Gromhol
+Marcus Gromhol Bienvenidos
 =====================
 
 This is the repository for the School for Scientific Software Developement in Trieste, Italy. 
